@@ -1,0 +1,26 @@
+.customer-history-tabs .ant-tabs-nav {
+    margin-bottom: 25px;
+}
+
+.customer-history-tabs .ant-tabs-nav::before {
+    border-bottom: 1px solid #bfbfbf;
+}
+
+.customer-history-tabs .ant-tabs-tab .ant-tabs-tab-btn {
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.customer-history-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: #73d13d;
+}
+
+.customer-history-tabs .ant-tabs-ink-bar.ant-tabs-ink-bar-animated {
+    background: #73d13d;
+}
+
+.row-item-margin {
+    margin-top: -24px;
+}
